@@ -345,7 +345,7 @@ hr {
 
 .sr-only-focusable:active,
 .sr-only-focusable:focus {
-    position: absolute;
+    position: static;
     width: auto;
     height: auto;
     margin: 0;
